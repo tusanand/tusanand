@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello! 👋</h1>
-  <h4>I'm Tushar, a Senior Software engineer with experience of over 8 years as a full stack engineer.</h4>
+  <h4>I'm Tushar, a Senior Software engineer with experience of over 9 years as a full stack engineer.</h4>
 </div>
 <!-- <img src="pizza.gif" width="100%" alt="Pizza" /> -->
 
